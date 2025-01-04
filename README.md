@@ -13,5 +13,7 @@
 
 - Booking Form
 - Booking summary (Confirmation message with reservation details)
+- Availability check
 - Responsive design
 - Backend functionality (Create, Get and Delete booking)
+- Backend deployed via Render
