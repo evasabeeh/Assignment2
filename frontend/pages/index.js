@@ -4,7 +4,7 @@ import GetModal from "../components/GetModal";
 import BookingFormModal from "../components/BookingFormModal";
 
 const Home = () => {
-  const url = "http://localhost:5000";
+  const url = "https://assignment2-pegx.onrender.com";
 
   const [modalOpen, setModalOpen] = useState(false);
   const [formModalOpen, setFormModalOpen] = useState(false);
