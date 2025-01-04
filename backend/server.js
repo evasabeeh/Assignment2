@@ -15,6 +15,10 @@ mongoose.connect(process.env.MONGO_URI)
 
 app.use("/api/bookings", bookingRoutes);
 
+app.get("/", (req, res) => {
+    res.send("API is configuring.")
+});
+
 app.listen(5000, () => {
     console.log("Server running on port 5000");
 });
