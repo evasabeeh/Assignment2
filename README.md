@@ -17,3 +17,6 @@
 - Responsive design
 - Backend functionality (Create, Get and Delete booking)
 - Backend deployed via Render
+
+## Backend
+https://assignment2-pegx.onrender.com
